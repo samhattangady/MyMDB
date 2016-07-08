@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyMDb</string>
+    <string name="title_activity_details">Details</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="pref_order_label">Sort by</string>
+    <string name="order_key">order</string>
+    <string name="order_default">popularity.desc</string>
+
+    <string name="pref_type_label">Movies / Televison</string>
+    <string name="type_key">type</string>
+    <string name="type_default">tv</string>
+</resources>
+
